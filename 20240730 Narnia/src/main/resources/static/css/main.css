@@ -1,0 +1,21 @@
+.table1{
+    border-style: dotted;
+}
+
+.table2{
+    border-color: rgb(204, 127, 255);
+}
+
+.col{
+    border-style: double;
+    border-color: rgb(5, 0, 9);  
+}
+
+
+@media screen and (max-width: 480px) and (orientation: portrait) {
+div {
+    background-color: rgb(214, 13, 13);
+    float: none;
+    width: auto;
+    }
+}
